@@ -11,5 +11,8 @@ Eclipse
 Sublime
 JUnit test
 Webdriver
+Soft skills
+Scrum
+Agile
 
 There are the skills we are going to learn in Cybertek.
